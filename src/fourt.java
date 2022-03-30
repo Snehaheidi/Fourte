@@ -20,6 +20,7 @@ public class fourt
     public void value()
     {
         System.out.println("Enter your value : ");
+        System.out.println("");
         System.out.println("1)\t"+arr.get(0)+"\t2)\t"+arr.get(1)+"\t3)\t"+arr.get(2)+"\t4)\t"+arr.get(3)+"");
         choice = scanner.nextInt();
 //        for(int i=1;i<=choice;i++) {

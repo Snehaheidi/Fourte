@@ -15,10 +15,6 @@ public class fibonacci
             n1 = n2;
             n2 = result;
             System.out.println(result);
-//            if()
-//            {
-//
-//            }
         }
     }
 }

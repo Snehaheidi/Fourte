@@ -6,7 +6,7 @@ public class Divisable
     {
         int sum,n;
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Our Sum value : ");
+        System.out.println("Our Sum Value : ");
         sum = scanner.nextInt();
         System.out.println("Enter the Number of element:");
         n = scanner.nextInt();

@@ -22,6 +22,7 @@ public class anagram
             char[] s2 = str2.toLowerCase().toCharArray();
             Arrays.sort(s1);
             Arrays.sort(s2);
+            System.out.println("");
 //            System.out.println(s1);
 //            System.out.println(s2);
             if(Arrays.equals(s1,s2))
